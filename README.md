@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Arnav's's github stats](https://github-readme-stats.vercel.app/api?username=arnavg115)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavg115)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arnavg115/arnavg115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
